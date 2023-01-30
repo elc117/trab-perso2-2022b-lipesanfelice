@@ -25,7 +25,7 @@
 
 * Padrão de correspondência baseado em aprendizado de máquina: É uma técnica de pattern matching que utiliza algoritmos de aprendizado de máquina para determinar a correspondência de um padrão. É amplamente utilizado em sistemas de reconhecimento de padrões complexos, como reconhecimento de rosto e reconhecimento de voz.
 
-######
+###### ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 * O pattern matching é útil em várias situações, como a validação de entrada de dados, a análise de expressões matemáticas e a manipulação de estruturas de dados complexas. Ele também pode ser combinado com outras técnicas de programação, como recursão e programação orientada a objetos, para criar soluções de programação mais elegantes e eficientes.
 * Além disso, o pattern matching pode ser utilizado para garantir a coerência de tipos, evitando erros na execução do código. Além disso, o pattern matching também pode ser utilizado para destruturar estruturas de dados, tornando acesso aos seus dados mais fácil e menos verboso.
 * Pattern matching é uma técnica utilizada em Haskell para comparar valores de diferentes tipos de dados e, dependendo da correspondência, executar uma ação específica. Ele é muito útil para escrever código simples e conciso, pois permite que você trate diferentes casos de forma clara e organizada. Ele é amplamente utilizado em funções de alta ordem, como map, filter e fold, bem como em estruturas de dados como listas e tuplas.
