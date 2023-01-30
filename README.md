@@ -5,9 +5,25 @@
 * O pattern matching é uma técnica de programação utilizada para comparar uma entrada (geralmente uma string ou expressão regular) com um conjunto de padrões pré-definidos e, em caso de correspondência, executar uma ação específica. É comumente utilizado em linguagens de programação funcionais, como Haskell e Erlang, mas também pode ser encontrado em outras linguagens como C, C++, Python, e Java.
 
 ## Existem vários tipos de pattern matching, cada um com suas próprias características e usos. Alguns exemplos incluem:
-* Padrões de expressão regular: onde a entrada é comparada com uma expressão regular específica e, em caso de correspondência, uma ação é executada.
-* Padrões de estrutura de dados: onde a entrada é comparada com uma estrutura de dados específica, como uma tupla ou uma lista, e, em caso de correspondência, uma ação é executada.
-* Padrões de tipo: onde a entrada é comparada com um tipo específico, como um número inteiro ou uma string, e, em caso de correspondência, uma ação é executada.
+* Padrão de correspondência de cadeia de caracteres: É a forma mais simples de pattern matching onde uma cadeia de caracteres é comparada com uma expressão regular para verificar se há correspondência. Exemplo: verificar se uma string contém uma determinada palavra.
+
+* Padrão de correspondência de expressão regular: É uma forma avançada de pattern matching onde uma string é comparada com uma expressão regular para verificar se há correspondência. É amplamente utilizado para validar entrada de dados, como endereços de email ou números de telefone.
+
+* Padrão de correspondência de modelo: É uma técnica de pattern matching que compara uma string com um modelo predefinido para verificar se há correspondência. É amplamente utilizado na identificação de padrões em dados, como análise de sentimentos em texto.
+
+* Padrão de correspondência de árvore de padrões: É uma técnica de pattern matching que compara uma string com uma árvore de padrões para verificar se há correspondência. É amplamente utilizado em sistemas de reconhecimento de fala e processamento de linguagem natural.
+
+* Padrão de correspondência de conjunto de padrões: É uma técnica de pattern matching que compara uma string com um conjunto de padrões para verificar se há correspondência. É amplamente utilizado em sistemas de reconhecimento de padrões, como reconhecimento de formas em imagens.
+
+* Padrão de correspondência de automato finito: É uma técnica de pattern matching que compara uma string com um automato finito para verificar se há correspondência. É amplamente utilizado em sistemas de processamento de linguagem natural e reconhecimento de fala.
+
+* Padrão de correspondência de sequência: É uma técnica de pattern matching que compara uma sequência de elementos com uma sequência predefinida para verificar se há correspondência. É amplamente utilizado em sistemas de reconhecimento de padrões em série, como reconhecimento de gestos em vídeo.
+
+* Padrão de correspondência de padrão hierárquico: É uma técnica de pattern matching que compara uma estrutura de dados com uma estrutura de padrão hierárquico para verificar se há correspondência. É amplamente utilizado em sistemas de reconhecimento de padrões em estruturas de dados, como reconhecimento de objetos em imagens.
+
+* Padrão de correspondência de padrão probabilístico: É uma técnica de pattern matching que utiliza probabilidades para determinar a correspondência de um padrão. É amplamente utilizado em sistemas de processamento de linguagem natural e reconhecimento de fala para determinar a probabilidade de uma palavra ou frase corresponderem a um determinado padrão.
+
+* Padrão de correspondência baseado em aprendizado de máquina: É uma técnica de pattern matching que utiliza algoritmos de aprendizado de máquina para determinar a correspondência de um padrão. É amplamente utilizado em sistemas de reconhecimento de padrões complexos, como reconhecimento de rosto e reconhecimento de voz.
 
 ######
 * O pattern matching é útil em várias situações, como a validação de entrada de dados, a análise de expressões matemáticas e a manipulação de estruturas de dados complexas. Ele também pode ser combinado com outras técnicas de programação, como recursão e programação orientada a objetos, para criar soluções de programação mais elegantes e eficientes.
